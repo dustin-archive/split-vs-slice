@@ -4,7 +4,7 @@
 
 Slice
 
-```
+```js
 // split
 data.split(',')[1]
 
