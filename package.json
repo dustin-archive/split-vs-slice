@@ -1,0 +1,15 @@
+{
+  "name": "split-vs-slice",
+  "version": "0.1.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test",
+    "bench": "node bench"
+  },
+  "author": "Dustin Dowell",
+  "license": "MIT",
+  "dependencies": {
+    "nanobench": "^2.1.0",
+    "tape": "^4.8.0"
+  }
+}
