@@ -1,8 +1,6 @@
 # split-vs-slice
 
-### Winner?
-
-Slice
+## Slice Wins
 
 ```js
 // split
